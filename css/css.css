@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* 
 .ciao{
     color: rebeccapurple;
-}
+} */
 
 
 body{
@@ -23,6 +23,7 @@ ul,ol,menu{
 }
 .sfondo{
     background-color: #2E3A46;
+    height: 400px;
 }
 
 
@@ -31,6 +32,4 @@ ul,ol,menu{
     cursor: pointer;
    
  
-
-
 }

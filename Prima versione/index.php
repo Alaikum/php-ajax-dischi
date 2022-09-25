@@ -16,11 +16,11 @@
 </head>
 
 <body>
-    <div class="ciao">wewRewe</div>
+ 
     <div id='app' class="container p-3 ">
 
         <ul >
-            <li class="row g-5 gap-1 ">
+            <li class="row g-5 ">
                 <?php foreach ($dischi as $gruppo) {
                 ?><ul class="col_ rounded">
                         <li class="sfondo">
@@ -42,7 +42,7 @@
 
     </div>
 
-    <script src="../js/myscript.js"></script>
+    <!-- <script src="../js/myscript.js"></script> -->
 </body>
 
 </html>
