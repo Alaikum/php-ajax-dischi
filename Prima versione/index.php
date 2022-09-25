@@ -11,11 +11,11 @@
     <link rel="stylesheet" href="../css/style.css">
     <?php include __DIR__ . '/../db/dischi.php'; ?>
 
-    <title>Dischi PHP</title>
+    <title>Dischi PHP Versione 1</title>
 </head>
 
 <body>
-    <div id='app' class="container p-3">
+    <div id='app' class="container p-3 sfondo">
 
 
         <ul >

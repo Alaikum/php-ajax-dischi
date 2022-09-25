@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+.container{
+    background-color: #1E2D3B;
+    font-size: 52px !important;
+}
 img{
     max-width: 100%;
 }
@@ -14,5 +21,8 @@ ul,ol,menu{
 
 .col_ {
     flex-basis: calc(100% /5);
+    cursor: pointer;
+
 
 }
+
