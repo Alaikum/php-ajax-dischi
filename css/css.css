@@ -1,17 +1,18 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 .ciao{
-    color: magenta;
+    color: rebeccapurple;
 }
 
 
-.container{
+body{
     background-color: #1E2D3B;
-    font-size: 52px !important;
+    color: white;
+
 }
 img{
     max-width: 100%;
@@ -20,12 +21,16 @@ img{
 ul,ol,menu{
     list-style: none;
 }
+.sfondo{
+    background-color: #2E3A46;
+}
 
 
 .col_ {
     flex-basis: calc(100% /5);
     cursor: pointer;
+   
+ 
 
 
 }
- */
